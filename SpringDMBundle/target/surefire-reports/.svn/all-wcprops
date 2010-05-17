@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/204/trunk/SpringDMBundle/target/surefire-reports
+END
+foo.AppTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/204/trunk/SpringDMBundle/target/surefire-reports/foo.AppTest.txt
+END
+TEST-foo.AppTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/204/trunk/SpringDMBundle/target/surefire-reports/TEST-foo.AppTest.xml
+END

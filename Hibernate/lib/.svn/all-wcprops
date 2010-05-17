@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/196/trunk/Hibernate/lib
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/196/trunk/Hibernate/lib/cglib-2.2.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/196/trunk/Hibernate/lib/antlr-2.7.6.jar
+END
+javassist-3.9.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/196/trunk/Hibernate/lib/javassist-3.9.0.GA.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/196/trunk/Hibernate/lib/commons-collections-3.1.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196/trunk/Hibernate/lib/commons-logging-1.0.4.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/196/trunk/Hibernate/lib/hibernate3.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/196/trunk/Hibernate/lib/jta-1.1.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/196/trunk/Hibernate/lib/slf4j-api-1.5.8.jar
+END
+asm-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/196/trunk/Hibernate/lib/asm-3.2.jar
+END
+mysql-connector-java-3.1.14-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/196/trunk/Hibernate/lib/mysql-connector-java-3.1.14-bin.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/196/trunk/Hibernate/lib/dom4j-1.6.1.jar
+END
+slf4j-jdk14-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/196/trunk/Hibernate/lib/slf4j-jdk14-1.5.2.jar
+END

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMap PUBLIC "-//iBATIS.com//DTD SQL MAP 2.0//EN"
+	"http://www.ibatis.com/dtd/sql-map-2.dtd">
+<sqlMap namespace="personManagement">
+
+	<typeAlias alias="person" type="com.empolis.ibatis.orm.Person" />
+	<cacheModel id="personCache" type="LRU" readOnly="true">
+		<flushInterval hours="24" />
+		<flushOnExecute statement="personManagement.executeChangeName" />
+		<property name="cache-size" value="1000" />
+	</cacheModel>
+
+
+	<resultMap id="personResult" class="person">
+		<result property="personId" column="ID" />
+		<result property="firstName" column="FIRSTNAME" />
+		<result property="lastName" column="LASTNAME" />
+		<result property="age" column="AGE" />
+	</resultMap>
+
+	<select id="getPerson" parameterClass="long" resultMap="personResult"
+		cacheModel="personCache">
+		SELECT
+		ID,
+		FIRSTNAME,
+		LASTNAME,
+		AGE
+		FROM
+		PERSON
+		WHERE
+		ID = #id#
+    </select>
+
+	<!--
+		Use Person object (JavaBean) "id" properties as parameters for update.
+		Each of the parameters in the #hash# symbols is a JavaBeans property.
+	-->
+	<update id="executeChangeName" parameterClass="long">
+		UPDATE
+		PERSON
+		SET
+		AGE =
+		'35'
+		WHERE
+		ID = #id#
+    </update>
+
+</sqlMap>

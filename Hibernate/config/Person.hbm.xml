@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+ "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+
+<hibernate-mapping>
+
+	<class name="com.empolis.hibernate.core.Person" table="Person">
+
+		<id name="id" column="ID">
+			<generator class="native" />
+		</id>
+
+		<property name="lastName">
+			<column name="LASTNAME" length="16" not-null="true" />
+		</property>
+
+		<property name="firstName">
+			<column name="FIRSTNAME" length="16" not-null="true" />
+		</property>
+
+		<property name="age">
+			<column name="AGE" length="16" not-null="true" />
+		</property>
+
+		<property name="address">
+			<column name="ADDRESS" length="16" not-null="false" />
+		</property>
+
+	</class>
+</hibernate-mapping>

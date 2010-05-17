@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/204/trunk/SpringDMBundle/META-INF/spring
+END
+greetingservice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/204/trunk/SpringDMBundle/META-INF/spring/greetingservice.xml
+END
+greetingservice-osgi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/204/trunk/SpringDMBundle/META-INF/spring/greetingservice-osgi.xml
+END

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="foo.AppTest">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\Dokumente und Einstellungen\misso01\.m2\repository"/>
+    <property name="env.ORACLE_HOME" value="C:\Programme\Oracle\instantclient_10_2"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="env.PROMPT" value="$P$G"/>
+    <property name="os.name" value="Windows XP"/>
+    <property name="env.FP_NO_HOST_CHECK" value="NO"/>
+    <property name="sun.boot.class.path" value="C:\Programme\Java\jdk1.6.0_10\jre\lib\resources.jar;C:\Programme\Java\jdk1.6.0_10\jre\lib\rt.jar;C:\Programme\Java\jdk1.6.0_10\jre\lib\sunrsasign.jar;C:\Programme\Java\jdk1.6.0_10\jre\lib\jsse.jar;C:\Programme\Java\jdk1.6.0_10\jre\lib\jce.jar;C:\Programme\Java\jdk1.6.0_10\jre\lib\charsets.jar;C:\Programme\Java\jdk1.6.0_10\jre\classes"/>
+    <property name="env.COMPUTERNAME" value="AFA-23981"/>
+    <property name="env.ALLUSERSPROFILE" value="C:\Dokumente und Einstellungen\All Users"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.runtime.version" value="1.6.0_10-rc2-b32"/>
+    <property name="env.HOMEPATH" value="\Dokumente und Einstellungen\misso01"/>
+    <property name="env.ECLS_3PS_HOME" value="R:\ecls"/>
+    <property name="user.name" value="misso01"/>
+    <property name="user.language" value="de"/>
+    <property name="sun.boot.library.path" value="C:\Programme\Java\jdk1.6.0_10\jre\bin"/>
+    <property name="classworlds.conf" value="F:\works\ccmworkspaces\workspace-homeworks\.metadata\.plugins\org.maven.ide.eclipse\launches\m2conf10718.tmp"/>
+    <property name="java.version" value="1.6.0_10-rc2"/>
+    <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 15 Stepping 11, GenuineIntel"/>
+    <property name="user.timezone" value=""/>
+    <property name="env.INCLUDE" value="C:\Programme\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\"/>
+    <property name="env.TEMP" value="C:\DOKUME~1\misso01\LOKALE~1\Temp"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.endorsed.dirs" value="C:\Programme\Java\jdk1.6.0_10\jre\lib\endorsed"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="env.HOMEDRIVE" value="C:"/>
+    <property name="env.EPBS_3PS_HOME" value="F:\eCLS\3rdParty\epbs"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="env.NLS_LANG" value="GERMAN_GERMANY.AL32UTF8"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="env.GROOVY_HOME" value="C:\Programme\Groovy\Groovy-1.6.3"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="user.country" value="DE"/>
+    <property name="java.home" value="C:\Programme\Java\jdk1.6.0_10\jre"/>
+    <property name="env.APPDATA" value="C:\Dokumente und Einstellungen\misso01\Anwendungsdaten"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="env.OS" value="Windows_NT"/>
+    <property name="env.CommonProgramFiles" value="C:\Programme\Gemeinsame Dateien"/>
+    <property name="os.version" value="5.1"/>
+    <property name="env.ESLS_3RD" value="F:\works\ccmworkspaces\workspace-sls-6-0\3rdPartyLibraries"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="11.0-b15"/>
+    <property name="env.USERPROFILE" value="C:\Dokumente und Einstellungen\misso01"/>
+    <property name="user.variant" value=""/>
+    <property name="env.LIB" value="C:\Programme\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\"/>
+    <property name="env.JAVA_HOME" value="C:/Programme/Java/jdk1.6.0_10/"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="env.TMP" value="C:\DOKUME~1\misso01\LOKALE~1\Temp"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="user.home" value="C:\Dokumente und Einstellungen\misso01"/>
+    <property name="env.SESSIONNAME" value="Console"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="env.JIKES_HOME" value="C:\Java\jikes-1.22"/>
+    <property name="env.NUMBER_OF_PROCESSORS" value="2"/>
+    <property name="java.library.path" value="C:\Programme\Java\jdk1.6.0_10\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Programme/Java/jre6/bin/client;C:/Programme/Java/jre6/bin;C:\Programme\Oracle\instantclient_10_2\bin;c:\programme\imagemagick-6.4.6-q16;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Programme\Hewlett-Packard\IAM\bin;c:\perl\bin;C:\Programme\ATI Technologies\ATI.ACE\Core-Static;C:\Programme\Java\jdk1.6.0_10\bin;C:\Programme\Groovy\Groovy-1.6.3\bin;JAD_HOME=C:\jad158g;C:\Java\apache-ant-1.7.1\bin;C:\Java\jikes-1.22\bin;C:\Programme\MySQL\MySQL Server 5.4\bin"/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="env.USERDNSDOMAIN" value="EMPOLIS.LOCAL"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="EMBEDDED"/>
+    <property name="env.IAS_HOME" value="C:\Programme\IAS\x86"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.class.path" value="/C:/Programme/eclipse/3.4.2/eclipse/plugins/org.maven.ide.components.maven_embedder_2.1.0.20080530-2300/jars/plexus-classworlds-1.2-alpha-12.jar"/>
+    <property name="env.JBOSS_HOME" value="F:\EmpolisProjects\SLSSchulung\server\JBoss"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="env.windir" value="C:\WINDOWS"/>
+    <property name="env.LOGONSERVER" value="\\EMPWU-ADS1"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="env.PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="env.ESLS_BUILD" value="F:\works\ccmworkspaces\workspace-sls-6-0\build"/>
+    <property name="m2eclipse.workspace.state" value="F:\works\ccmworkspaces\workspace-homeworks\.metadata\.plugins\org.maven.ide.eclipse\workspacestate.properties"/>
+    <property name="sun.os.patch.level" value="Service Pack 3"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="env.ProgramFiles" value="C:\Programme"/>
+    <property name="env.JAD_HOME" value="C:\jad158g"/>
+    <property name="env.ANT_HOME" value="C:\Java\apache-ant-1.7.1"/>
+    <property name="surefire.test.class.path" value="F:\works\ccmworkspaces\workspace-homeworks\SpringDMBundle\target\test-classes;F:\works\ccmworkspaces\workspace-homeworks\SpringDMBundle\target\classes;C:\Dokumente und Einstellungen\misso01\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Dokumente und Einstellungen\misso01\.m2\repository\org\springframework\spring-test\2.5.6\spring-test-2.5.6.jar;C:\Dokumente und Einstellungen\misso01\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Dokumente und Einstellungen\misso01\.m2\repository\org\springframework\spring-core\2.5.6\spring-core-2.5.6.jar;C:\Dokumente und Einstellungen\misso01\.m2\repository\org\springframework\spring-context\2.5.6\spring-context-2.5.6.jar;C:\Dokumente und Einstellungen\misso01\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Dokumente und Einstellungen\misso01\.m2\repository\org\springframework\spring-beans\2.5.6\spring-beans-2.5.6.jar;"/>
+    <property name="java.io.tmpdir" value="C:\DOKUME~1\misso01\LOKALE~1\Temp\"/>
+    <property name="env.PROCESSOR_REVISION" value="0f0b"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="env.SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.ext.dirs" value="C:\Programme\Java\jdk1.6.0_10\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="env.PERL5LIB" value="C:\Programme\Oracle\instantclient_10_2\perl\5.8.3\lib\MSWin32-x86;C:\Programme\Oracle\instantclient_10_2\perl\5.8.3\lib;C:\Programme\Oracle\instantclient_10_2\perl\5.8.3\lib\MSWin32-x86;C:\Programme\Oracle\instantclient_10_2\perl\site\5.8.3;C:\Programme\Oracle\instantclient_10_2\perl\site\5.8.3\lib;C:\Programme\Oracle\instantclient_10_2\sysman\admin\scripts;"/>
+    <property name="user.dir" value="F:\works\ccmworkspaces\workspace-homeworks\SpringDMBundle"/>
+    <property name="env.VS71COMNTOOLS" value="C:\Programme\Microsoft Visual Studio .NET 2003\Common7\Tools\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.groovy;.gy"/>
+    <property name="env.Path" value="C:/Programme/Java/jre6/bin/client;C:/Programme/Java/jre6/bin;C:\Programme\Oracle\instantclient_10_2\bin;c:\programme\imagemagick-6.4.6-q16;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Programme\Hewlett-Packard\IAM\bin;c:\perl\bin;C:\Programme\ATI Technologies\ATI.ACE\Core-Static;C:\Programme\Java\jdk1.6.0_10\bin;C:\Programme\Groovy\Groovy-1.6.3\bin;JAD_HOME=C:\jad158g;C:\Java\apache-ant-1.7.1\bin;C:\Java\jikes-1.22\bin;C:\Programme\MySQL\MySQL Server 5.4\bin"/>
+    <property name="env.ESLS_PROP" value="esls.properties"/>
+    <property name="basedir" value="F:\works\ccmworkspaces\workspace-homeworks\SpringDMBundle"/>
+    <property name="maven.mode.standalone" value="true"/>
+    <property name="env.USERNAME" value="misso01"/>
+    <property name="env.SystemDrive" value="C:"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="env.USERDOMAIN" value="EMPOLIS"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="env.PROCESSOR_LEVEL" value="6"/>
+  </properties>
+  <testcase time="0" classname="foo.AppTest" name="testApp"/>
+</testsuite>

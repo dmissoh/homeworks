@@ -1,0 +1,63 @@
+8
+
+dir
+221
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.guice
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-25T14:50:49.600802Z
+221
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+222
+
+
+
+2009-08-25T14:48:17.217000Z
+d6524caeb9f126921815acb42eb764f9
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+has-props
+
+.project
+file
+222
+
+
+
+2009-08-25T14:21:43.656000Z
+197563c2084124985241fe002c6c703f
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+has-props
+
+.settings
+dir
+
+lib
+dir
+
+src
+dir
+

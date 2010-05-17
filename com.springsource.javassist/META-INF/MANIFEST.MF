@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Javassist Java Programming Assistant
+Bundle-SymbolicName: com.springsource.javassist
+Bundle-Version: 3.3.0.ga
+Bundle-ClassPath: com.springsource.javassist-3.3.0.ga.jar
+Bundle-Vendor: SpringSource
+Export-Package: javassist;version="3.3.0.ga";uses:="javassist.bytecode,
+ javassist.bytecode.annotation,
+ javassist.compiler,
+ javassist.compiler.ast,
+ javassist.expr",
+ javassist.bytecode;version="3.3.0.ga";uses:="javassist,
+ javassist.bytecode.annotation",
+ javassist.bytecode.annotation;version="3.3.0.ga";uses:="javassist,
+ javassist.bytecode",
+ javassist.compiler;version="3.3.0.ga";uses:="javassist,
+ javassist.bytecode,
+ javassist.compiler.ast",
+ javassist.compiler.ast;version="3.3.0.ga";uses:="javassist,
+ javassist.compiler",
+ javassist.convert;version="3.3.0.ga";uses:="javassist,
+ javassist.bytecode",
+ javassist.expr;version="3.3.0.ga";uses:="javassist,
+ javassist.bytecode,
+ javassist.compiler,
+ javassist.compiler.ast",
+ javassist.runtime;version="3.3.0.ga",
+ javassist.scopedpool;version="3.3.0.ga";uses:="javassist",
+ javassist.tools;version="3.3.0.ga",
+ javassist.tools.reflect;version="3.3.0.ga";uses:="javassist",
+ javassist.tools.rmi;version="3.3.0.ga";uses:="javassist,
+ javassist.tools.web",
+ javassist.tools.web;version="3.3.0.ga";uses:="javassist",
+ javassist.util;version="3.3.0.ga";uses:="com.sun.jdi.connect,
+ com.sun.jdi.event,
+ com.sun.jdi.request",
+ javassist.util.proxy;version="3.3.0.ga";uses:="javassist,
+ javassist.bytecode"
+Specification-Title: Javassist
+Ant-Version: Apache Ant 1.6.5
+Main-Class: javassist.CtClass
+Created-By: Shigeru Chiba, Tokyo Institute of Technology
+Specification-Version: 3.3
+Specification-Vendor: Shigeru Chiba, Tokyo Institute of Technology
+Import-Package: com.sun.jdi;resolution:=optional,com.sun.jdi.connect;resolution:=optional,com.sun.jdi.event;resolution:=optional,com.sun.jdi.request;resolution:=optional

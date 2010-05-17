@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons Pool
+Bundle-SymbolicName: com.springsource.org.apache.commons.pool
+Bundle-Version: 1.3.0
+Bundle-ClassPath: com.springsource.org.apache.commons.pool-1.3.0.jar
+Bundle-Vendor: SpringSource
+Export-Package: org.apache.commons.pool;version="1.3.0",org.apache.commons.pool.impl;version="1.3.0";uses:="org.apache.commons.pool"
+Implementation-Title: org.apache.commons.pool
+Implementation-Vendor-Id: org.apache
+Created-By: Apache Maven
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Version: 1.3
+Package: org.apache.commons.pool
+Ant-Version: Apache Ant 1.5.3
+Built-By: sandymac
+X-Compile-Source-JDK: 1.3
+Specification-Title: Commons Object Pooling Library
+Build-Jdk: 1.5.0_06
+Extension-Name: commons-pool
+Specification-Vendor: The Apache Software Foundation
+X-Compile-Target-JDK: 1.3

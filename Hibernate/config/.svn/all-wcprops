@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/196/trunk/Hibernate/config
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/196/trunk/Hibernate/config/hibernate.cfg.xml
+END
+Person.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/196/trunk/Hibernate/config/Person.hbm.xml
+END

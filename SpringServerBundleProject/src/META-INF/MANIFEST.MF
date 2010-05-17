@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Web-DispatcherServletUrlPatterns: /springbuchweb/*
+Module-Type: Web
+Bundle-Version: 1.0.0
+Bundle-Name: SpringServerBundleProject Bundle
+Bundle-ManifestVersion: 2
+Web-ContextPath: /spring-buch
+Bundle-SymbolicName: SpringServerBundleProject
+

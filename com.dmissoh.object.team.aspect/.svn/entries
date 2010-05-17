@@ -1,0 +1,89 @@
+8
+
+dir
+218
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.object.team.aspect
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-12T16:11:59.314734Z
+218
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+219
+
+
+
+2009-08-12T13:21:49.290000Z
+019890dfe8d809ca64c259e2e6f72d7a
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+.project
+file
+219
+
+
+
+2009-08-12T13:21:48.478000Z
+d3b1674483520c98eee496205e03bd28
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+.settings
+dir
+
+META-INF
+dir
+
+build.properties
+file
+219
+
+
+
+2009-08-12T13:26:24.140000Z
+40aba06924622eb859bc8dd280782e43
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+plugin.xml
+file
+219
+
+
+
+2009-08-12T13:53:53.296000Z
+f7a76e99ec300bea24b1a1e77648d6f6
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+src
+dir
+

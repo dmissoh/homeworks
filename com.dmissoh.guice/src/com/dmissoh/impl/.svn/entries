@@ -1,0 +1,54 @@
+8
+
+dir
+222
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.guice/src/com/dmissoh/impl
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+Greeter.java
+file
+
+
+
+
+2009-08-25T14:27:47.201000Z
+7f21449667671a4c39080d8306f4d6b5
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+has-props
+
+GreetingConsumer.java
+file
+
+
+
+
+2009-08-25T14:47:33.278000Z
+76057b94643236ac9d3759c739bfc564
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+has-props
+

@@ -1,0 +1,131 @@
+8
+
+dir
+218
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.rcp.mail
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-12T16:11:59.314734Z
+218
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+219
+
+
+
+2009-08-12T12:53:15.773000Z
+7dfc337a1ea5247d85247f102e53ce15
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+.project
+file
+219
+
+
+
+2009-08-12T12:53:15.476000Z
+cc22c30d15e6ce7e1abc060fb4a899a3
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+.settings
+dir
+
+META-INF
+dir
+
+Mail.product
+file
+219
+
+
+
+2009-08-12T12:57:57.966000Z
+2dac8a8a710bc80e4e68542fb92b7501
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+build.properties
+file
+219
+
+
+
+2009-08-12T12:53:15.867000Z
+40b4907c97ec361bff928781152da0cd
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+icons
+dir
+
+plugin.xml
+file
+219
+
+
+
+2009-08-12T12:58:03.513000Z
+0203469b73d1cc9bcc831a12aa03ab67
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+product_lg.gif
+file
+219
+
+
+
+2009-08-12T12:53:15.883000Z
+151e591bbee43d1927bbec458a3902b3
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+splash.bmp
+file
+219
+
+
+
+2009-08-12T12:53:15.945000Z
+9dd50ab0832f3a0c110d95426853e8a2
+2009-08-12T16:13:16.653148Z
+219
+dmissoh
+has-props
+
+src
+dir
+

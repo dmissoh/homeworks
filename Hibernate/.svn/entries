@@ -1,0 +1,66 @@
+8
+
+dir
+195
+https://homeworks.googlecode.com/svn/trunk/Hibernate
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-02T11:27:46.179322Z
+195
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+196
+
+
+
+2009-07-02T11:08:36.624000Z
+befec7dc1d03bcb6e3f91c7897d21169
+2009-07-02T11:28:33.979418Z
+196
+dmissoh
+has-props
+
+.project
+file
+196
+
+
+
+2009-07-02T09:25:40.294000Z
+0d3f66a94cda5bdafab1fb7b3a1d0224
+2009-07-02T11:28:33.979418Z
+196
+dmissoh
+has-props
+
+.settings
+dir
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+

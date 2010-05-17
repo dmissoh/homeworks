@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/203/trunk/SpringDMBundleClient
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/204/trunk/SpringDMBundleClient/.classpath
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/204/trunk/SpringDMBundleClient/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/204/trunk/SpringDMBundleClient/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/204/trunk/SpringDMBundleClient/pom.xml
+END

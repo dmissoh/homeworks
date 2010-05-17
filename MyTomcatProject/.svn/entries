@@ -1,0 +1,113 @@
+8
+
+dir
+199
+https://homeworks.googlecode.com/svn/trunk/MyTomcatProject
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T13:21:21.048665Z
+199
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+200
+
+
+
+2009-07-03T12:12:25.500000Z
+437a2614a15a20aa02634afbc4fd2c95
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+
+.cvsignore
+file
+200
+
+
+
+2009-07-03T11:02:05.039000Z
+67e92c8765a9bc7fb2d335c459de9eb5
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+
+.project
+file
+200
+
+
+
+2009-07-03T11:02:04.946000Z
+4cafa444ea33199fce03fbf97234eca7
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+
+.tomcatplugin
+file
+200
+
+
+
+2009-07-03T13:11:55.074000Z
+8c7ddf9206279bb75a74ecf0d4c6f275
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+
+WEB-INF
+dir
+
+index.html
+file
+200
+
+
+
+2009-07-03T11:26:03.387000Z
+aed1168ff172e2533927faff73711b21
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+
+src
+dir
+
+test.jsp
+file
+200
+
+
+
+2009-07-03T11:20:02.401000Z
+60176b5c3040746cd546b63a2a673497
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+
+work
+dir
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pde version="3.2"?>
+
+<target name="RUN">
+
+   <location useDefault="true"/>
+
+   <content useAllPlugins="true">
+      <plugins>
+      </plugins>
+      <features>
+      </features>
+      <extraLocations>
+         <location path="${project_loc}/lib/"/>
+      </extraLocations>
+   </content>
+
+   <implicitDependencies>
+      <plugin id="org.apache.felix.ipojo"/>
+   </implicitDependencies>
+
+</target>

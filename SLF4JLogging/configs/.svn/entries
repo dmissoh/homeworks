@@ -1,0 +1,41 @@
+8
+
+dir
+202
+https://homeworks.googlecode.com/svn/trunk/SLF4JLogging/configs
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T14:32:53.617508Z
+202
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+log4j.properties
+file
+
+
+
+
+2009-07-03T13:38:52.759000Z
+67f4d4f23f3d7f9731505b24b1d43099
+2009-07-03T14:32:53.617508Z
+202
+dmissoh
+has-props
+

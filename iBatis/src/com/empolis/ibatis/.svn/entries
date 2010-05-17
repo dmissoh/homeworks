@@ -1,0 +1,44 @@
+8
+
+dir
+198
+https://homeworks.googlecode.com/svn/trunk/iBatis/src/com/empolis/ibatis
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-02T11:31:30.565661Z
+198
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+IBatisClient.java
+file
+
+
+
+
+2009-07-02T08:33:59.010000Z
+b81c686fde41593029bc187f05f210c9
+2009-07-02T11:31:30.565661Z
+198
+dmissoh
+has-props
+
+orm
+dir
+

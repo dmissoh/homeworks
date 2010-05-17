@@ -1,0 +1,54 @@
+8
+
+dir
+215
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.org.math.api/src/com/dmissoh/org/calculation/api/core
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+ICalculator.java
+file
+
+
+
+
+2009-08-07T14:45:28.279000Z
+3bf31501588b995ba889783b816879b6
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+
+IConstants.java
+file
+
+
+
+
+2009-08-07T14:44:28.591000Z
+1fb7c5cb96e844a2f42f3d25b10473c9
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+

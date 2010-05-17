@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mail
+Bundle-SymbolicName: com.dmissoh.rcp.mail; singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.dmissoh.rcp.mail.Activator
+Bundle-Vendor: Dimitri Missoh
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Export-Package: com.dmissoh.rcp.mail

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail
+END
+MessagePopupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/MessagePopupAction.java
+END
+ICommandIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/ICommandIds.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/View.java
+END
+OpenViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/OpenViewAction.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/Activator.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/ApplicationWorkbenchWindowAdvisor.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/Perspective.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/Application.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/ApplicationWorkbenchAdvisor.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/ApplicationActionBarAdvisor.java
+END
+NavigationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/src/com/dmissoh/rcp/mail/NavigationView.java
+END

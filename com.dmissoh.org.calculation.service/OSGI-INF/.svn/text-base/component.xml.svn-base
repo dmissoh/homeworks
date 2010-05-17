@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" immediate="true" name="com.dmissoh.org.calculation.service">
+   <implementation class="com.dmissoh.org.calculation.service.core.ServiceComponent"/>
+   <service>
+      <provide interface="com.dmissoh.org.calculation.api.core.ICalculator"/>
+   </service>
+   <reference bind="setConstants" cardinality="1..1" interface="com.dmissoh.org.calculation.api.core.IConstants" name="IConstants" policy="dynamic"/>
+</scr:component>

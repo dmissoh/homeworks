@@ -1,0 +1,54 @@
+8
+
+dir
+215
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.org.math.api/.settings
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2009-08-07T12:01:21.320000Z
+fca09d1c2e307d725e25773eb1e790d3
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+
+org.eclipse.pde.core.prefs
+file
+
+
+
+
+2009-08-07T12:01:21.383000Z
+fb99fdf317c4b8a40a3b98f7963cd5b8
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+

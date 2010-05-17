@@ -1,0 +1,54 @@
+8
+
+dir
+215
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.org.calculation.service.consumer/.settings
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2009-08-07T13:49:50.354000Z
+df8ab4b54f5f83d69a2ec1ef4616b6d4
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+
+org.eclipse.pde.core.prefs
+file
+
+
+
+
+2009-08-07T13:49:51.542000Z
+02e943b575178cec2982dc588994bfad
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+

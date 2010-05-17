@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<project name="My iPOJO Bundle" default="unpackage" basedir=".">
+
+	<property name="src.dir" value="src"/>
+	<property name="lib.dir" value="lib"/>
+	<property name="build.dir" value="bin"/>
+	<property name="output.dir" value="bin"/>
+
+	<taskdef resource="aQute/bnd/ant/taskdef.properties"
+		      classpath="${lib.dir}/bnd-0.0.313.jar"/>
+	<taskdef name="ipojo" classpath="${lib.dir}/org.apache.felix.ipojo.ant-1.2.0.jar"
+		classname="org.apache.felix.ipojo.task.IPojoTask"/>
+
+	<target name="clean">
+		<delete dir="${build.dir}"/>
+		<delete dir="${output.dir}"/>
+	</target>
+
+	<target name="compile" depends="clean">
+	<mkdir dir="${output.dir}"/>
+		<mkdir dir="${build.dir}"/>
+
+		<javac   srcdir="${src.dir}"
+		         destdir="${build.dir}"
+		         debug="on"
+				classpath="${lib.dir}/org.apache.felix.ipojo.annotations-1.2.0.jar"
+		  />
+
+	</target>
+
+	<target name="package" depends="compile">
+		<jar file="${output.dir}/bundle.jar"
+			manifest="META-INF/MANIFEST.MF"
+		>
+		    <fileset dir="${output.dir}"/>
+		</jar>
+
+		<ipojo
+				input="${output.dir}/bundle.jar"
+				metadata="metadata.xml"
+		/>
+	</target>
+
+
+	<target name="unpackage" depends="package">
+		<echo message="Unpackage..."/>
+		<unjar overwrite="true" dest="${output.dir}" src="${output.dir}/bundle.jar"/>
+		<copy file="${output.dir}/META-INF/MANIFEST.MF" tofile="META-INF/MANIFEST.MF"></copy>
+		<delete file="${output.dir}/bundle.jar"/>
+	</target>
+
+</project>

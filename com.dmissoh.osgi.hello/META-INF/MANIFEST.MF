@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hello
+Bundle-SymbolicName: com.dmissoh.osgi.hello
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.dmissoh.osgi.hello.Activator
+Bundle-Vendor: Dimitri Missoh
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

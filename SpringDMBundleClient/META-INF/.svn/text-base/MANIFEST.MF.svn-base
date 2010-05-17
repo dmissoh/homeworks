@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringDMBundleClient
+Bundle-SymbolicName: SpringDMBundleClient
+Bundle-Version: 1.0.0
+Require-Bundle: org.eclipse.osgi;bundle-version="3.4.0",
+ org.springdm.service.SpringDMService;bundle-version="1.0.0"
+Bundle-Activator: org.springdm.client.SpringDMClientActivator

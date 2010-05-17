@@ -1,0 +1,54 @@
+8
+
+dir
+204
+https://homeworks.googlecode.com/svn/trunk/SpringDMBundle/target/surefire-reports
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+TEST-foo.AppTest.xml
+file
+
+
+
+
+2009-07-03T08:09:43.451000Z
+d372e2b9b36d6260fd7bd16848cfecea
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+has-props
+
+foo.AppTest.txt
+file
+
+
+
+
+2009-07-03T08:09:43.466000Z
+1cd0a7abd23f82edb28cfca0216089ef
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+has-props
+

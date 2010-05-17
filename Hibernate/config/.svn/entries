@@ -1,0 +1,54 @@
+8
+
+dir
+196
+https://homeworks.googlecode.com/svn/trunk/Hibernate/config
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-02T11:28:33.979418Z
+196
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+Person.hbm.xml
+file
+
+
+
+
+2009-07-02T11:00:48.049000Z
+002caba4b8c333406a6eed7f4eb53a96
+2009-07-02T11:28:33.979418Z
+196
+dmissoh
+has-props
+
+hibernate.cfg.xml
+file
+
+
+
+
+2009-07-02T10:54:34.664000Z
+43337f75a3b6a8d1fd3fcf98e8e26a99
+2009-07-02T11:28:33.979418Z
+196
+dmissoh
+has-props
+

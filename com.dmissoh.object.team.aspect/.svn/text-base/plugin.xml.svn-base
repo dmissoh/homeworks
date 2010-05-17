@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.objectteams.otequinox.aspectBindings">
+      <aspectBinding
+            icon="platform:/plugin/org.objectteams.otdt.ui/icons/ot/calloutbinding_obj.gif">
+         <basePlugin
+               icon="platform:/plugin/org.eclipse.pde.ui/icons/obj16/plugin_obj.gif"
+               id="com.dmissoh.rcp.mail">
+         </basePlugin>
+         <team
+               activation="ALL_THREADS"
+               class="aspect.MyTeam"
+               icon="platform:/plugin/org.objectteams.otdt.ui/icons/ot/team_obj.gif">
+         </team>
+      </aspectBinding>
+   </extension>
+
+</plugin>

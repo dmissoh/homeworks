@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>true</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>true</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>C:\Dokumente und Einstellungen\misso01\Desktop\mytomcat.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/MyTomcatProject</webPath>
+</tomcatProjectProperties>

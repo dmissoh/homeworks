@@ -1,0 +1,54 @@
+8
+
+dir
+222
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.guice/lib
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+aopalliance.jar
+file
+
+
+
+
+2009-08-25T14:48:09.748000Z
+04177054e180d09e3998808efa0401c7
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+has-props
+
+guice-2.0.jar
+file
+
+
+
+
+2009-08-25T14:27:01.012000Z
+0fc35ce963248ab0ce6ba6c148f9b665
+2009-08-25T14:51:29.537093Z
+222
+dmissoh
+has-props
+

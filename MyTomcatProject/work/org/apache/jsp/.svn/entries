@@ -1,0 +1,54 @@
+8
+
+dir
+200
+https://homeworks.googlecode.com/svn/trunk/MyTomcatProject/work/org/apache/jsp
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+test_jsp.class
+file
+
+
+
+delete
+2009-07-03T13:12:03.419000Z
+8d56e676376bdeffb94e9f86a9e560a3
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+
+test_jsp.java
+file
+
+
+
+
+2009-07-03T13:12:02.575000Z
+7390b70ac8318f736fe4a9fb453c9b00
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+

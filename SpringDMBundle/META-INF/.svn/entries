@@ -1,0 +1,44 @@
+8
+
+dir
+204
+https://homeworks.googlecode.com/svn/trunk/SpringDMBundle/META-INF
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+MANIFEST.MF
+file
+
+
+
+
+2009-07-03T08:00:07.019000Z
+95822b58bebf2e63eaa2cbc87a70c10e
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+has-props
+
+spring
+dir
+

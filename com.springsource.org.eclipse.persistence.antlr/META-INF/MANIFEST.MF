@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse Link ANTLR
+Bundle-SymbolicName: com.springsource.org.eclipse.persistence.antlr
+Bundle-Version: 1.0.0
+Bundle-ClassPath: com.springsource.org.eclipse.persistence.antlr-1.0.0.jar
+Bundle-Vendor: SpringSource
+Export-Package: org.eclipse.persistence.internal.libraries.antlr.runtime;version="1.0.0";uses:="org.eclipse.persistence.internal.libraries.antlr.runtime.tree",org.eclipse.persistence.internal.libraries.antlr.runtime.tree;version="1.0.0";uses:="org.eclipse.persistence.internal.libraries.antlr.runtime"
+HK2-Bundle-Name: org.eclipse.persistence:org.eclipse.persistence.antlr
+Ant-Version: Apache Ant 1.7.0

@@ -1,0 +1,41 @@
+8
+
+dir
+200
+https://homeworks.googlecode.com/svn/trunk/MyTomcatProject/WEB-INF/src/com/empolis/tomcat
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+HelloServlet.java
+file
+
+
+
+
+2009-07-03T11:43:14.134000Z
+290daead9ac9d25a6521e429336a8422
+2009-07-03T13:22:25.801305Z
+200
+dmissoh
+has-props
+

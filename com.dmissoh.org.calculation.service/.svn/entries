@@ -1,0 +1,79 @@
+8
+
+dir
+214
+https://homeworks.googlecode.com/svn/trunk/com.dmissoh.org.calculation.service
+https://homeworks.googlecode.com/svn
+
+
+
+2009-08-07T14:54:40.423502Z
+214
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+215
+
+
+
+2009-08-07T12:07:14.807000Z
+7dfc337a1ea5247d85247f102e53ce15
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+
+.project
+file
+215
+
+
+
+2009-08-07T12:26:23.075000Z
+5d24663fffead278214637bea6a83146
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+
+.settings
+dir
+
+META-INF
+dir
+
+OSGI-INF
+dir
+
+build.properties
+file
+215
+
+
+
+2009-08-07T12:26:23.122000Z
+9a7ff376180e9cf0802f26069a51c5f0
+2009-08-07T15:01:33.131921Z
+215
+dmissoh
+has-props
+
+src
+dir
+

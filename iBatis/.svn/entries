@@ -1,0 +1,78 @@
+8
+
+dir
+197
+https://homeworks.googlecode.com/svn/trunk/iBatis
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-02T11:30:43.236145Z
+197
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+.classpath
+file
+198
+
+
+
+2009-07-02T07:46:24.896000Z
+8a872d0f7ac626463d5a4414aada5f72
+2009-07-02T11:31:30.565661Z
+198
+dmissoh
+has-props
+
+.project
+file
+198
+
+
+
+2009-07-02T07:25:52.046000Z
+632bfbfc295d36d291780933ef8d4acd
+2009-07-02T11:31:30.565661Z
+198
+dmissoh
+has-props
+
+.settings
+dir
+
+.springBeans
+file
+198
+
+
+
+2009-07-02T07:39:23.643000Z
+bb76121885179f93121e2440ecfc27a1
+2009-07-02T11:31:30.565661Z
+198
+dmissoh
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+

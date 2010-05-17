@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/198/trunk/iBatis/lib
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/198/trunk/iBatis/lib/spring.jar
+END
+ibatis-2.3.4.726.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/198/trunk/iBatis/lib/ibatis-2.3.4.726.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/198/trunk/iBatis/lib/commons-logging-1.0.4.jar
+END
+mysql-connector-java-3.1.14-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/198/trunk/iBatis/lib/mysql-connector-java-3.1.14-bin.jar
+END

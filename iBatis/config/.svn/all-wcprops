@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/198/trunk/iBatis/config
+END
+PersonSQLMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/198/trunk/iBatis/config/PersonSQLMap.xml
+END
+SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/198/trunk/iBatis/config/SqlMapConfig.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/198/trunk/iBatis/config/applicationContext.xml
+END

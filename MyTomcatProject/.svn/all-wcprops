@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/199/trunk/MyTomcatProject
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/200/trunk/MyTomcatProject/.cvsignore
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/200/trunk/MyTomcatProject/index.html
+END
+test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/200/trunk/MyTomcatProject/test.jsp
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/200/trunk/MyTomcatProject/.classpath
+END
+.tomcatplugin
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/200/trunk/MyTomcatProject/.tomcatplugin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/200/trunk/MyTomcatProject/.project
+END

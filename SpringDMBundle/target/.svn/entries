@@ -1,0 +1,47 @@
+8
+
+dir
+204
+https://homeworks.googlecode.com/svn/trunk/SpringDMBundle/target
+https://homeworks.googlecode.com/svn
+
+
+
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5c0c3e42-b539-0410-a244-61591545ae3a
+
+SpringDMBundle-0.0.1-SNAPSHOT.jar
+file
+
+
+
+
+2009-07-03T08:09:43.607000Z
+b1dd8a8b578fd20cfdd408eaf839f04a
+2009-07-03T15:00:14.175237Z
+204
+dmissoh
+has-props
+
+maven-archiver
+dir
+
+surefire-reports
+dir
+

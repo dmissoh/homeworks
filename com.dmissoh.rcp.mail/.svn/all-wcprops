@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/218/trunk/com.dmissoh.rcp.mail
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/.classpath
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/plugin.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/.project
+END
+Mail.product
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/Mail.product
+END
+splash.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/splash.bmp
+END
+product_lg.gif
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/219/trunk/com.dmissoh.rcp.mail/product_lg.gif
+END

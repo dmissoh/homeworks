@@ -1,0 +1,23 @@
+package com.dmissoh.slf4j;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class Wombat {
+
+	private final Logger logger = LoggerFactory.getLogger(Wombat.class);
+	private Integer t;
+	private Integer oldT;
+
+	public void setTemperature(Integer temperature) {
+
+		oldT = t;
+		t = temperature;
+
+		logger.info("Temperature set to {}. Old temperature was {}.", t, oldT);
+
+		if (temperature.intValue() > 50) {
+			logger.info("Temperature has risen above 50 degrees.");
+		}
+	}
+}
